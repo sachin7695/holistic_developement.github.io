@@ -10,5 +10,4 @@ A text to speech app for non verbal people.pre made buttons text speech using we
 5. Helps to learn various things at one place(teach about human emotions in addition to conventional subjects
 # <hr>
 # PROJECT DEMO
-# <hr>
 https://sachin7695.github.io/holistic_developement.github.io/
