@@ -1,5 +1,5 @@
 # holistic_developement.github.io
-A text to speech app for non verbal people.pre made buttons text speech using web speech API.
+A text to speech app for non verbal people.pre made buttons text speech using web speech API(https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance).
 # <hr>
 # Project Specification
 # <hr>
